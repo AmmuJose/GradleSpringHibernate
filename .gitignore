@@ -1,0 +1,7 @@
+*/cache/*
+/.gradle/2.9/taskArtifacts/
+/.classpath
+/.project
+/.settings/
+/bin/
+/gradle/wrapper/
